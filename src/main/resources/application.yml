@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: stockprices
+netty:
+  default:
+    allocator:
+      max-order: 3
